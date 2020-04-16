@@ -36,6 +36,10 @@ a{
     line-height: 2em;
     font-weight: 300;
 }
+
+.fa-star, .fa-star-o{
+    color: tomato;
+}
 .content {
   margin: 0px;
   max-width: 960px;
@@ -44,7 +48,15 @@ a{
   height: 100%;
   /* background-color:#e8ffff; */
 }
-
-td {
-  border: solid 1px;
+.table{
+    width: 100%;
+    border-spacing: 0;
 }
+.table td, .table th{
+    padding: 1em;
+    text-align: left;
+}
+
+.table tr:nth-child(even){background-color: #2bc0e4 ;}
+
+/* nthchik es una seudo clase */
