@@ -22,6 +22,20 @@ html {
     font-family: 'Arbutus Slab', serif;
     
 }
+a{
+    text-decoration: none;
+    color: #684c00;
+}
+.tittle{
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.paragraph{
+    /* line-height: no sirve para cambiar la altura de la linea; */
+    line-height: 2em;
+    font-weight: 300;
+}
 .content {
   margin: 0px;
   max-width: 960px;
