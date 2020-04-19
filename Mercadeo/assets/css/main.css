@@ -50,8 +50,7 @@ a:active {
 
 .paragraph{
     /* line-height: no sirve para cambiar la altura de la linea; */
-    line-height: 2em;
-    font-weight: 300;
+    line-height: 1mm;
 }
 
 .fa-star, .fa-star-o{
@@ -83,7 +82,7 @@ a:active {
 .main-image{
   float: left;
   margin-right: 1em;
-  height: 250px;
+  height: 100px;
 
 }
 
@@ -119,9 +118,6 @@ a:active {
   border-bottom: solid 2px rgb(231, 112, 33);
   /* border-width: 2.5px; */
   padding-bottom: 1em;
-}
-h1{
-  border-bottom-style: outset;
 }
 
 .position{
