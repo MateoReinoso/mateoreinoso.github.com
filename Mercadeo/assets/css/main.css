@@ -79,6 +79,14 @@ a:active {
   right: 1em;
 }
 
+
+.main-image{
+  margin-bottom: 3px;
+  float: left;
+  height: 10px;
+
+}
+
 .close{
   height: 35px;
   width: 35px;
@@ -128,5 +136,5 @@ h1{
 .icon{
   font-weight: 800;
   color:#642B73;
-  font-size: 6em;
+  font-size: 1.4em;
 }
