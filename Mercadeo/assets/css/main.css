@@ -126,5 +126,7 @@ h1{
 }
 
 .icon{
-  font-weight: bold;
+  font-weight: 800;
+  color:#642B73;
+  font-size: 6em;
 }
