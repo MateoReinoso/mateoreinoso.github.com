@@ -50,7 +50,7 @@ a:active {
 
 .paragraph{
     /* line-height: no sirve para cambiar la altura de la linea; */
-    line-height: 1mm;
+    line-height: 1em;
 }
 
 .fa-star, .fa-star-o{
