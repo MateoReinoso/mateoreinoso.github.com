@@ -29,6 +29,7 @@ a{
 .tittle{
     text-transform: uppercase;
     text-align: center;
+    border-color: lightslategrey;
 }
 
 .paragraph{
@@ -60,3 +61,8 @@ a{
 .table tr:nth-child(even){background-color: #2bc0e4 ;}
 
 /* nthchik es una seudo clase */
+.tittle-item{
+  /* ´para definir el borde  */
+  border-bottom-style: solid;
+  border-width: 2.5px;
+}
