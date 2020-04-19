@@ -51,6 +51,7 @@ a:active {
 .paragraph{
     /* line-height: no sirve para cambiar la altura de la linea; */
     line-height: 1em;
+    color: maroon;
 }
 
 .fa-star, .fa-star-o{
@@ -83,6 +84,7 @@ a:active {
   float: left;
   margin-right: 1em;
   height: 200px;
+  border-radius: 2em;
 
 }
 
