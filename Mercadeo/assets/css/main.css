@@ -70,10 +70,9 @@ a:active {
   /* border-radius: 1em; */
   position: relative;
   /*  elemento posicionadp */
-  padding: 2em;
+  padding: 1.8em;
   /* margin: 2em; */
   overflow-y: scroll;
-  overflow-x: hidden;
 }
 
 .actions{
