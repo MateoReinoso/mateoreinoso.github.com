@@ -21,7 +21,7 @@ cerrar.forEach(function (close) {
     // }, interval);
     setTimeout(function () {
       location.href = "/";
-    }, 1000);
+    }, 2000);
 
     return false;
   });
