@@ -20,7 +20,7 @@ cerrar.forEach(function (close) {
 
     // }, interval);
     setTimeout(function () {
-      location.href = "/Mercadeo";
+      location.href = "/";
     }, 1000);
 
     return false;
