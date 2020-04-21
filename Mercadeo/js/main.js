@@ -21,7 +21,7 @@ cerrar.forEach(function (close) {
     // }, interval);
     setTimeout(function () {
       location.href = "/Mercadeo";
-    }, 600);
+    }, 1000);
 
     return false;
   });
